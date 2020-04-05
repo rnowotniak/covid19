@@ -212,7 +212,7 @@ for row in axs:
 ```
 
 
-![png](output_10_0.png)
+![png](markdown/output_10_0.png)
 
 
 ## Total confirmed cases (cumulative)  -  one chart
@@ -232,7 +232,7 @@ plt.title('Total confirmed cases')
 
 
 
-![png](output_12_1.png)
+![png](markdown/output_12_1.png)
 
 
 
@@ -252,7 +252,7 @@ for row in axs:
 ```
 
 
-![png](output_15_0.png)
+![png](markdown/output_15_0.png)
 
 
 ## Active cases - one chart
@@ -264,7 +264,7 @@ ax.yaxis.set_major_formatter(mpl.ticker.StrMethodFormatter('{x:,.0f}'))
 ```
 
 
-![png](output_17_0.png)
+![png](markdown/output_17_0.png)
 
 
 
@@ -287,7 +287,7 @@ for row in axs:
 ```
 
 
-![png](output_21_0.png)
+![png](markdown/output_21_0.png)
 
 
 
@@ -312,7 +312,7 @@ plt.title('Total confirmed cases')
 
 
 
-![png](output_24_1.png)
+![png](markdown/output_24_1.png)
 
 
 
@@ -332,7 +332,7 @@ for row in axs:
 ```
 
 
-![png](output_27_0.png)
+![png](markdown/output_27_0.png)
 
 
 ## Active cases - one chart, log scale
@@ -344,5 +344,5 @@ ax.yaxis.set_major_formatter(mpl.ticker.StrMethodFormatter('{x:,.0f}'))
 ```
 
 
-![png](output_29_0.png)
+![png](markdown/output_29_0.png)
 
