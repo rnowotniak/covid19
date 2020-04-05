@@ -1,5 +1,5 @@
 # covid19 global spread analysis
-Coronavirus spread analysis in Python, Jupyter and pandas
+Coronavirus spread analysis
 
 Contact: Robert Nowotniak <<rnowotniak@gmail.com>>
 
